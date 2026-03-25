@@ -1,0 +1,36 @@
+table{width: 90%;
+height: 100vh;
+margin: auto;}
+
+td{width: 5.5%;
+height: 5vh;}
+
+.border {border: solid;
+text-align: center;
+ background-color: lightcoral}
+
+div{text-align: left; }
+
+.gn{ background-color: lightseagreen;}
+
+.nm{ background-color: lightsteelblue;}
+
+.sm{ background-color: lightgreen;}
+
+.mt { background-color: lightcoral;}
+
+.ma{ background-color: lightyellow;}
+
+.mat { background-color: yellow;}
+
+.h { background-color: lightblue;}
+
+.om{ background-color: lightgrey;}
+
+.a { background-color: lightpink;}
+
+.l{ background-color: lightskyblue;}
+
+.c{ border: thin solid; height: 10vh;}
+
+.c div{ text-align: center; }
